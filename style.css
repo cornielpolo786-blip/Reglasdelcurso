@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMIdkcrTORkWEf4vvE2YD_0SgAdAxSH8py2Q&s");
+  margin: 20px;
+  background-size:cover;
+}
+h1 { color: white;
+  
+  font-size: 40px;
+}
+
+p { color: white;
+  
+  font-size: 25px;
+}
+h2 { color: white;
+ 
+}
+oi { color: white;
+   font-size: 20px;
+}
